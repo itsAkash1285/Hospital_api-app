@@ -36,6 +36,6 @@ Installation
 3.Create a .env file with the following content: PORT =<port_number> DATABASE_URL =<mongo_uri> SecretKey =<jwt_secret>
 4.Start the server using npm start
 
-Hosting Link:-
+Hosting Link:-https://itsakash1285.github.io/Hospital_api-app/
 
-git repo:-
+git repo:-https://github.com/itsAkash1285/Hospital_api-app
